@@ -22,7 +22,7 @@ By choosing to use mods, you understand that:
   but they are not out to kill mods.
 
 Do not attack the game developers for issues related to mods, and vice versa -
-modders and game developers are two separate groups. Just don't be a jerk ok.
+modders and game developers are two separate groups. Just don't be a jerk, okay?
 :::
 
 :::warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. What gives?
@@ -48,9 +48,9 @@ Modding Beat Saber involves installing APKs on your Quest. Therefore, you will n
 or an Android device at least once.
 
 :::tip NOTE
-The latest moddable Beat Saber version for Quest is `1.28.0`.
+The latest moddable Beat Saber version for Quest is `1.35.0`.
 
-- If you are using BMBF and want to downgrade, refer to the [Downgrading Guide for BMBF](./quest-modding-bmbf.md#downgrading-beat-saber).
+- If you are using BMBF and want to downgrade to 1.28.0, refer to the [Downgrading Guide for BMBF](./quest-modding-bmbf.md#downgrading-beat-saber).
 - QAVS walks you through the downgrade process automatically.
 
 :::
